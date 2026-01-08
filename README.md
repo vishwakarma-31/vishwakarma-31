@@ -153,13 +153,13 @@ I'm a full stack developer focused on building scalable web applications. I work
 <h3 align="center">Jarvis Ultimate</h3>
 <div align="center">  
 <a href="https://github.com/vishwakarma-31/jarvis-ultimate" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=jarvis-ultimate&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://github.com/vishwakarma-31/vishwakarma-31/blob/main/Jarvis.png" />
 </a>
 <br>
 <br>
 <p>
 <a href="https://github.com/vishwakarma-31/jarvis-ultimate" target="_blank">
-<img src="https://github.com/vishwakarma-31/vishwakarma-31/blob/main/Jarvis.png"/>
+<img src="https://img.shields.io/badge/Code-View%20Code-F85D7F?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 <p><strong>Tech Stack:</strong> Python</p>
