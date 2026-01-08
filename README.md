@@ -104,88 +104,76 @@ const vishwakarma = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">E-Commerce Platform</h3>
+<h3 align="center">Chat Application</h3>
 <div align="center">  
-<a href="https://github.com/vishwakarma-31/project-1" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/vishwakarma-31/Chat-Application" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=Chat-Application&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/vishwakarma-31/project-1" target="_blank">
+<a href="https://github.com/vishwakarma-31/Chat-Application" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Code-F85D7F?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://your-demo-link.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-View%20Demo-00C7B7?style=for-the-badge&logo=vercel"/>
-</a>
 </p>
-<p><strong>Tech Stack:</strong> React, Node.js, MongoDB, Stripe</p>
-<p>Full-stack e-commerce platform with payment integration, user authentication, and admin dashboard.</p>
+<p><strong>Tech Stack:</strong> TypeScript</p>
+<p>Real-time chat application with modern UI and instant messaging capabilities.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Task Management App</h3>
+<h3 align="center">Portfolio 2.0</h3>
 <div align="center">  
-<a href="https://github.com/vishwakarma-31/project-2" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/vishwakarma-31/portfolio_2.0" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=portfolio_2.0&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/vishwakarma-31/project-2" target="_blank">
+<a href="https://github.com/vishwakarma-31/portfolio_2.0" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Code-F85D7F?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://your-demo-link.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-View%20Demo-00C7B7?style=for-the-badge&logo=vercel"/>
-</a>
 </p>
-<p><strong>Tech Stack:</strong> Vue.js, Express, PostgreSQL</p>
-<p>Collaborative task management tool with real-time updates and team collaboration features.</p>
+<p><strong>Tech Stack:</strong> TypeScript</p>
+<p>Modern and responsive personal portfolio showcasing projects and skills with smooth animations.</p>
 </div>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">Weather Dashboard</h3>
+<h3 align="center">RBAC System</h3>
 <div align="center">  
-<a href="https://github.com/vishwakarma-31/project-3" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=project-3&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/vishwakarma-31/RBAC" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=RBAC&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/vishwakarma-31/project-3" target="_blank">
+<a href="https://github.com/vishwakarma-31/RBAC" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Code-F85D7F?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://your-demo-link.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-View%20Demo-00C7B7?style=for-the-badge&logo=vercel"/>
-</a>
 </p>
-<p><strong>Tech Stack:</strong> JavaScript, OpenWeather API, Chart.js</p>
-<p>Beautiful weather dashboard with forecasts, interactive charts, and location-based weather data.</p>
+<p><strong>Tech Stack:</strong> TypeScript</p>
+<p>Role-Based Access Control system with granular permissions and user management.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">AI Chatbot</h3>
+<h3 align="center">Jarvis Ultimate</h3>
 <div align="center">  
-<a href="https://github.com/vishwakarma-31/project-4" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=project-4&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/vishwakarma-31/jarvis-ultimate" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=jarvis-ultimate&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/vishwakarma-31/project-4" target="_blank">
+<a href="https://github.com/vishwakarma-31/jarvis-ultimate" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Code-F85D7F?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://your-demo-link.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-View%20Demo-00C7B7?style=for-the-badge&logo=vercel"/>
-</a>
 </p>
-<p><strong>Tech Stack:</strong> Python, TensorFlow, Flask</p>
-<p>Intelligent chatbot using NLP and machine learning for natural conversations.</p>
+<p><strong>Tech Stack:</strong> Python</p>
+<p>AI-powered virtual assistant with voice recognition and automation capabilities.</p>
 </div>
 </td>
 </tr>
