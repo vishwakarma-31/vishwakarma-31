@@ -2,7 +2,7 @@
 
 # Aryan Vishwakarma
 
-**Full Stack Developer** | Building scalable web applications
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,11 @@ I'm a full stack developer focused on building scalable web applications. I work
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technologies & Tools
+
+</div>
 
 <div align="center">
 
@@ -56,7 +60,11 @@ I'm a full stack developer focused on building scalable web applications. I work
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishwakarma-31&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180em" />
@@ -73,7 +81,11 @@ I'm a full stack developer focused on building scalable web applications. I work
 
 ---
 
+<div align="center">
+
 ## 🌟 Featured Projects
+
+</div>
 
 <div align="center">
 
@@ -159,7 +171,11 @@ I'm a full stack developer focused on building scalable web applications. I work
 
 ---
 
+<div align="center">
+
 ## 📈 Contribution Graph
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakarma-31&custom_title=Vishwakarma's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F8D866&title_color=FFFFFF&area=true" />
@@ -167,7 +183,11 @@ I'm a full stack developer focused on building scalable web applications. I work
 
 ---
 
+<div align="center">
+
 ## 🤝 Connect With Me
+
+</div>
 
 <div align="center">
   
@@ -182,7 +202,11 @@ I'm a full stack developer focused on building scalable web applications. I work
 
 ---
 
+<div align="center">
+
 ## 💭 Random Dev Quote
+
+</div>
 
 <div align="center">
   
