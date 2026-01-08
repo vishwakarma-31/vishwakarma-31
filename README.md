@@ -1,8 +1,16 @@
+<div align="center">
+
 # Aryan Vishwakarma
 
 **Full Stack Developer** | Building scalable web applications
 
+</div>
+
+<div align="center">
+
 ## 🚀 About Me
+
+</div>
 
 I'm a full stack developer focused on building scalable web applications. I work with modern technologies across the entire development stack and enjoy solving complex problems through code.
 
