@@ -97,7 +97,7 @@ I'm a full stack developer focused on building scalable web applications. I work
 <h3 align="center">Chat Application</h3>
 <div align="center">  
 <a href="https://github.com/vishwakarma-31/Chat-Application" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=Chat-Application&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://github.com/vishwakarma-31/vishwakarma-31/blob/main/Chat%20Application.png" />
 </a>
 <br>
 <br>
@@ -115,7 +115,7 @@ I'm a full stack developer focused on building scalable web applications. I work
 <h3 align="center">Portfolio 2.0</h3>
 <div align="center">  
 <a href="https://github.com/vishwakarma-31/portfolio_2.0" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=portfolio_2.0&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://github.com/vishwakarma-31/vishwakarma-31/blob/main/Portfolio.png" />
 </a>
 <br>
 <br>
@@ -135,7 +135,7 @@ I'm a full stack developer focused on building scalable web applications. I work
 <h3 align="center">RBAC System</h3>
 <div align="center">  
 <a href="https://github.com/vishwakarma-31/RBAC" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwakarma-31&repo=RBAC&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://github.com/vishwakarma-31/vishwakarma-31/blob/main/RBAC.png" />
 </a>
 <br>
 <br>
@@ -159,7 +159,7 @@ I'm a full stack developer focused on building scalable web applications. I work
 <br>
 <p>
 <a href="https://github.com/vishwakarma-31/jarvis-ultimate" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Code-F85D7F?style=for-the-badge&logo=github"/>
+<img src="https://github.com/vishwakarma-31/vishwakarma-31/blob/main/Jarvis.png"/>
 </a>  
 </p>
 <p><strong>Tech Stack:</strong> Python</p>
