@@ -13,11 +13,12 @@
 </div>
 
 <div align="center">
+  
 I'm a full stack developer focused on building scalable web applications. I work with modern technologies across the entire development stack and enjoy solving complex problems through code.
 
-**Current Focus:** Web development, system design, and cloud technologies
 </div>
----
+
+**Current Focus:** Web development, system design, and cloud technologies
 
 <div align="center">
 
