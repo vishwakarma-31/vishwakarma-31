@@ -1,38 +1,14 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan-Vishwakarma&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+# Aryan Vishwakarma
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Projects+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+**Full Stack Developer** | Building scalable web applications
 
 ## 🚀 About Me
 
-```javascript
-const vishwakarma = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
-    technologies: {
-        frontEnd: ["React", "Vue.js", "HTML5", "CSS3", "TailwindCSS"],
-        backEnd: ["Node.js", "Express", "Django", "Spring Boot"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        tools: ["Git", "Docker", "AWS", "VS Code", "Postman"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() 😅"
-};
-```
+I'm a full stack developer focused on building scalable web applications. I work with modern technologies across the entire development stack and enjoy solving complex problems through code.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
+**Current Focus:** Web development, system design, and cloud technologies
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -70,11 +46,7 @@ const vishwakarma = {
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
+---
 
 ## 📊 GitHub Stats
 
@@ -91,11 +63,7 @@ const vishwakarma = {
   <img src="https://github-profile-trophy.vercel.app/?username=vishwakarma-31&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+---
 
 ## 🌟 Featured Projects
 
@@ -181,11 +149,7 @@ const vishwakarma = {
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-</div>
+---
 
 ## 📈 Contribution Graph
 
@@ -193,11 +157,7 @@ const vishwakarma = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakarma-31&custom_title=Vishwakarma's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F8D866&title_color=FFFFFF&area=true" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+---
 
 ## 🤝 Connect With Me
 
@@ -212,27 +172,13 @@ const vishwakarma = {
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-## 💭 Quote of the Day
+## 💭 Random Dev Quote
 
 <div align="center">
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br/>
-
-## 🐍 Watch my Contribution Graph get Eaten by the Snake!
-
-<div align="center">
-  
-![Snake animation](https://github.com/vishwakarma-31/vishwakarma-31/blob/output/github-contribution-grid-snake.svg)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -240,14 +186,7 @@ const vishwakarma = {
 
 <div align="center">
 
-### 💖 Show some love by starring ⭐ some repositories!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishwakarma-31&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/vishwakarma-31?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/vishwakarma-31?style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=vishwakarma-31&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/vishwakarma-31?style=flat-square&color=blue)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
